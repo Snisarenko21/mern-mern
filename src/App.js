@@ -1,8 +1,8 @@
 import Container from "@mui/material/Container";
 
 import { Header } from "./components";
-import { Home, FullPost, Registration, AddPost, Login } from "./pages";
-
+// import { Home, FullPost, Registration, AddPost, Login } from "./pages";
+import { Home } from "./pages";
 function App() {
   return (
     <>
